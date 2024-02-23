@@ -1,0 +1,5 @@
+print("Assalomu-alaykum")
+print('Xayrli tong!')
+print("NATIJA " ,2+4*2, " BULDI")
+print(19/5)
+print(2**4)
